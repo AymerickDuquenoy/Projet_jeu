@@ -1,0 +1,9 @@
+idée amélioration jeu
+
+faire un alternance aléatoire entre plui de météorite et boss
+
+Coder boss(poulpe)
+
+Mettre musique de boss quand il spawn
+
+Mettre musique météorite quand elle spawn
